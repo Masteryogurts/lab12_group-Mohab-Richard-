@@ -1,0 +1,35 @@
+* commit 42ea0f491d118a4c8562b0d8fc9285dab89d8c16 (hello)
+| Author: Mohab Elshabasy <mohabelshabasy@gmail.com>
+| Date:   Wed Nov 5 19:12:03 2025 -0500
+| 
+|     Hello, in hello branch
+|   
+| * commit 7f995e76db87d922cc6c0087b37064b356e1a080 (HEAD -> main, origin/main, origin/HEAD)
+| | Author: Webb_Richard <r.webb1@gwmail.gwu.edu>
+| | Date:   Wed Nov 5 19:07:24 2025 -0500
+| | 
+| |     fixed
+| | 
+| * commit 35408a069a2cba53f41beb840d4845c8962f1fee
+| | Author: Webb_Richard <r.webb1@gwmail.gwu.edu>
+| | Date:   Wed Nov 5 19:07:08 2025 -0500
+| | 
+| |     sorry I changed it back
+| | 
+| * commit 7aba0e8569ad727108e6b600d8a97e46d81c3439
+| | Author: Webb_Richard <r.webb1@gwmail.gwu.edu>
+| | Date:   Wed Nov 5 19:06:13 2025 -0500
+| | 
+| |     changes
+| | 
+| * commit aef6a403a1fbd688461bc97a166368b757264b00
+|/  Author: Webb_Richard <r.webb1@gwmail.gwu.edu>
+|   Date:   Wed Nov 5 18:56:05 2025 -0500
+|   
+|       first commit
+| 
+* commit a75b857952242ec89e4e3b6b21393538152b84e3 (origin/Richard)
+  Author: Mohab Elshabasy <mohabelshabasy@gmail.com>
+  Date:   Wed Nov 5 18:46:37 2025 -0500
+  
+      HelloWorld.java for lab 12 group portion
